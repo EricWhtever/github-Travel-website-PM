@@ -79,7 +79,7 @@ nav {
         }
 
         @include sm {
-            display: inline;
+            display: flex;
         }
     }
 
